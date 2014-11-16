@@ -46,4 +46,4 @@ Requirements
     
 License
 =====
-Remove LogMeIn Cruft is copyleft 2002 under the <a href="http://www.gnu.org/licenses/gpl-2.0.html">GPL v2</a> or higher.
+Remove LogMeIn Cruft is copyleft 2014 under the <a href="http://www.gnu.org/licenses/gpl-2.0.html">GPL v2</a> or higher.
