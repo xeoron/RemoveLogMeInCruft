@@ -3,7 +3,7 @@ Remove LogMeIn Cruft
 When you uninstall LogMeIn service on OS X with their own tools, Appzapper, or even CCleaner, 
 various files are left behind tangling in the system some of which cause the system to throw 
 errors every second or so because background processes are still trying to start for LogMeIn.
-This becomes very apparent when looking throw Console log files or if you search the filesystem
+This becomes very apparent when looking threw Console log files or if you search the filesystem
 for files with logmein in their names.
 
 Why search manually for those various files to remove and destroy when we don't have too.
